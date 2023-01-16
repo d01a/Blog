@@ -98,7 +98,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = ""
+      logo = "\logo.png"
       # title name
       # 标题名称
       name = "d01a"
