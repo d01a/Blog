@@ -6,7 +6,7 @@ lastmod: 2022-09-12T11:04:49+08:00
 draft: false
 author: "Mohamed Adel"
 authorLink: "https://d01a.github.io"
-description: "DRaccoon Stealer"
+description: "Raccoon Stealer"
 images: []
 resources:
   - name: "featured-image"
