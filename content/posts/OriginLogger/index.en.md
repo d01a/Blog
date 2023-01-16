@@ -10,7 +10,7 @@ description: "OriginLogger: A look at OriginLogger Loader, extracting the final 
 images: []
 resources:
   - name: "featured-image"
-    src: "featured-image.jpg"
+    src: "featured-image.png"
 
 tags: ["Malware Analysis", "Reverse Engineering"]
 categories: ["Malware Analysis"]
