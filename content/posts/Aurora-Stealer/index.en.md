@@ -6,7 +6,7 @@ lastmod: 2023-04-13T12:04:49+08:00
 draft: false
 author: "Mohamed Adel"
 authorLink: "https://d01a.github.io"
-description: "Raccoon Stealer"
+description: "Aurora Stealer"
 images: []
 resources:
   - name: "featured-image"
@@ -21,13 +21,13 @@ toc:
   auto: false
 ---
 
-# Conclusion
+## Conclusion
 
 Aurora Stealer is an information stealer Written in GO. It is a commercial stealer that costs around 250$ per month. The malware can steal Browser password and saved cookies, crypto information (Desktop and Web), Telegram, Steam and Specific files from the victim machine and can take a screenshot from it.
 
 ![Untitled](Aurora%20Stealer%203ac5d7639dee4d95b3cfd546053de596/Untitled.png)
 
-# Analysis
+## Analysis
 
 ## Basic information
 
@@ -388,7 +388,7 @@ Sample JSON file can be found here [https://pastebin.com/YpTwAC94](https://paste
 - 29339458f4a33ee922f25d36b83f19797a15a279634e9c44ebd3816866a541cb
 - 82.115.223[.]249:8081
 
-### Yara Rule
+## Yara Rule
 
 ```python
 rule aurora_stealer{
@@ -417,7 +417,7 @@ rule aurora_stealer{
 }
 ```
 
-# References
+## References
 
 - [https://gist.github.com/alexander-hanel/59af86b0154df44a2c9cebfba4996073](https://gist.github.com/alexander-hanel/59af86b0154df44a2c9cebfba4996073)
 - [The Go Programming Language](https://go.dev/src/syscall/syscall_windows.go)
