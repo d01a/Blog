@@ -1,8 +1,8 @@
 ---
 weight: 1
 title: "Aurora Stealer"
-date: 2023-04-13T12:04:49+08:00
-lastmod: 2023-04-13T12:04:49+08:00
+date: 2023-04-12T11:04:49+08:00
+lastmod: 2023-04-12T11:04:49+08:00
 draft: false
 author: "Mohamed Adel"
 authorLink: "https://d01a.github.io"
@@ -426,3 +426,4 @@ rule aurora_stealer{
 - [https://dr-knz.net/go-calling-convention-x86-64.html](https://dr-knz.net/go-calling-convention-x86-64.html)
 - [https://dr-knz.net/go-calling-convention-x86-64-2020.html](https://dr-knz.net/go-calling-convention-x86-64-2020.html)
 - [Aurora: a rising stealer flying under the radar - SEKOIA.IO Blog](https://blog.sekoia.io/aurora-a-rising-stealer-flying-under-the-radar/)
+
