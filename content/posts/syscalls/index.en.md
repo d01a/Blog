@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: Understanding Syscalls: Direct, Indirect, and Cobalt Strike Implementation"
+title: "Understanding Syscalls: Direct, Indirect, and Cobalt Strike Implementation"
 date: 2023-08-18T09:04:49+08:00
 lastmod: 2023-08-18T09:04:49+08:00
 draft: false
