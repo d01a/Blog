@@ -20,7 +20,7 @@ hasCJKLanguage = false
 # default amount of posts in each pages
 paginate = 12
 # google analytics code [UA-XXXXXXXX-X]
-googleAnalytics = ""
+googleAnalytics = "G-FQH2ZFMGTR"
 # copyright description used only for seo schema
 copyright = ""
 
@@ -98,7 +98,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = ""
+      logo = "assets/images/Luffy.svg"
       # title name
       # 标题名称
       name = "d01a"
