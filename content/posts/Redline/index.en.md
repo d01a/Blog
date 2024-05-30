@@ -39,7 +39,7 @@ Also, it has a component that can be used as a loader to execute other malware f
 
 The attack flow can be represented by the following graph:
 
-![sample2.svg](img/sample2.svg)
+![sample2.png](img/sample2.png)
 
 ## Analysis
 
@@ -947,7 +947,7 @@ Hybrid-analysis search result [Free Automated Malware Analysis Service - powered
 | https://attack.mitre.org/techniques/T1041/ | Exfiltration Over C2 Channel |
 |  |  |
 
-![RedLine.svg](img/RedLine.svg)
+![RedLine.png](img/RedLine.png)
 
 ## References
 

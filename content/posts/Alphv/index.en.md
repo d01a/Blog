@@ -837,7 +837,7 @@ Hybrid-analysis search result [Free Automated Malware Analysis Service - powered
 | https://attack.mitre.org/techniques/T1489/ | Service Stop |
 |  |  |
 
-![ALPHV_Ransomware.svg](img/ALPHV_Ransomware.svg)
+![ALPHV_Ransomware.png](img/ALPHV_Ransomware.png)
 
 ## References
 
