@@ -1,8 +1,8 @@
 ---
 weight: 1
 title: "Redline stealer"
-date: 2023-09-12T11:04:49+08:00
-lastmod: 2023-09-12T11:04:49+08:00
+date: 2024-05-30T11:04:49+08:00
+lastmod: 2024-05-30T11:04:49+08:00
 draft: false
 author: "Mohamed Adel"
 authorLink: "https://d01a.github.io"
