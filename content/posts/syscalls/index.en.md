@@ -22,7 +22,6 @@ toc:
 ---
 
 
-> In case images fail to load, it might be due to jsDelivr CDN ban in Egypt. To resolve this, consider using a VPN. :)
 
 ## Syscalls? Why?
 
